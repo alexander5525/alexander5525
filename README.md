@@ -15,7 +15,7 @@ Here are a few of the projects I’ve worked on. Feel free to explore the reposi
 ### 1️⃣ **Text-to-Audio Neural Network**  
 - **Description**: A neural network designed from scratch to generate audio files from text documents. While the project didn’t fully achieve its goals, the AI model worked as intended and taught me valuable lessons about neural network architectures and debugging.  
 - **Technologies Used**: C++ 
-- **Repository**: https://github.com/aloe5525/cppTTSai
+- **Repository**: https://github.com/alexander5525/cppTTSai
 
 ### 2️⃣ **Stock Analysis and Backtesting Tool**  
 - **Description**: Built a Python program to backtest stock trading strategies written in `.py` scripts and compare their performance to the S&P 500. While I couldn’t implement automated trading, the tool is fully functional for backtesting and analyzing strategies.  
