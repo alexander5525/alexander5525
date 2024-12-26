@@ -14,7 +14,7 @@ Here are a few of the projects I’ve worked on. Feel free to explore the reposi
 
 ### 1️⃣ **Stock Analysis and Backtesting Tool**  
 - **Description**: Built a Python program to backtest stock trading strategies written in `.py` scripts and compare their performance to the S&P 500. While I couldn’t implement automated trading, the tool is fully functional for backtesting and analyzing strategies.  
-- **Technologies Used**: Python, Matplotlib, Pandas, Financial APIs  
+- **Technologies Used**: Python, Pandas, Financial APIs, Tensorflow 
 - **Repository**: https://github.com/alexander5525/stock
 
 ### 2️⃣ **Text-to-Audio Neural Network**  
