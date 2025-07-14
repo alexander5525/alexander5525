@@ -27,8 +27,5 @@ Here are a few of the projects I’ve worked on. Feel free to explore the reposi
 - Experience with machine learning frameworks like **TensorFlow** and working with data analysis libraries such as **NumPy** and **Pandas**.
 - A mindset of continuous improvement—every project is an opportunity to grow and learn.
 
-## 🌟 Let’s Connect
-I’m currently looking for an internship for my student semester in **software engineering** or **machine learning/data science** starting in March/April 2025. 
-
 Thanks for stopping by! 🚀
 
